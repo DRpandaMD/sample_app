@@ -3,7 +3,7 @@
 # Ruby on Rails Tutorial: a sample app
 
 You can find more documentation 
-[*here *](http://wwww.railstutorial.org/)
+[*here*](http://www.railstutorial.org/)
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
